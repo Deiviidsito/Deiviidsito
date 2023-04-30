@@ -1,20 +1,20 @@
-## <div align="center">I'm Indra Niko Saputra <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
+## <div align="center">Hola soy Deiviidsito <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
 
 <br>
 <div style ="display:flex;" align="center">
-  <img src="https://drive.google.com/file/d/1EXCWxx8nXJj9j1mkla12sZhbPAAUOEnY/view" style="width:250px"/>
+  <img src="https://prnt.sc/kfLTnzyT_hkZ" style="width:250px"/>
 </div>
 
-### <div align="center">I'm a Student of Diponegoro University, Indonesia. Still in the process of learning in the world of Web Development</div>
+### <div align="center">Soy estudiante de la Universidad Catolica Del Norte, Chile. Todavía en proceso de aprendizaje en el mundo del Desarrollo Web</div>
 
 
-- 🔭 I’m currently looking for internship
+- 🔭 Actualmente estoy buscando una pasantía
 
 
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 🌱 Actualmente estoy aprendiendo Java
 
 
-- ❓ You can Email Me Through [Here](mailto:indraniko20@gmail.com)
+- ❓ Puedes enviarme un correo electrónico a través de [aqui](mailto:david.alvarez.barraza@gmail.com)
 
 
 - ⚡ Fun fact: My Waifu is a Snek <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:20px"/>
