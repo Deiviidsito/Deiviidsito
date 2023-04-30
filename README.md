@@ -2,7 +2,7 @@
 
 <br>
 <div style ="display:flex;" align="center">
-  <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:250px"/>
+  <img src="https://drive.google.com/file/d/1EXCWxx8nXJj9j1mkla12sZhbPAAUOEnY/view" style="width:250px"/>
 </div>
 
 ### <div align="center">I'm a Student of Diponegoro University, Indonesia. Still in the process of learning in the world of Web Development</div>
