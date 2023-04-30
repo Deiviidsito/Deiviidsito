@@ -1,4 +1,4 @@
-## <div align="center">Hola soy Deiviidsito <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
+## <div align="center">Hola soy Deiviidsito"/></div>
 
 <br>
 <div style ="display:flex;" align="center">
@@ -24,7 +24,7 @@
 
 <br/>
 
-## Tech Stack
+## Capacidades
 
 <table align="center">
 <tr><td align="top" width="33%">
