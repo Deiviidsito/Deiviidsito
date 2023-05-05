@@ -5,7 +5,7 @@
   <img src="https://github.com/Deiviidsito/Deiviidsito/blob/main/logo%20pagina.png" style="width:250px"/>
 </div>
 
-### <div align="center">Soy estudiante de la Universidad Catolica Del Norte, Chile. Todavía en proceso de aprendizaje en el mundo la ingenieria de software</div>
+### <div align="center">Soy estudiante de la Universidad Catolica Del Norte, Chile. Todavía en proceso de aprendizaje en el mundo de la ingenieria de software</div>
 
 
 - 🔭 Actualmente estoy buscando una pasantía
