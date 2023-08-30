@@ -11,7 +11,7 @@
 - 🔭 Actualmente estoy buscando una pasantía
 
 
-- 🌱 Actualmente estoy aprendiendo Java
+- 🌱 Actualmente estoy aprendiendo C++
 
 
 - ❓ Puedes enviarme un correo electrónico a través de [aqui](mailto:david.alvarez.barraza@gmail.com)
