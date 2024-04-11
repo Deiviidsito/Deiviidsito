@@ -8,16 +8,13 @@
 ### <div align="center">Soy estudiante de la Universidad Catolica Del Norte, Chile. Todavía en proceso de aprendizaje en el mundo de la ingenieria de software</div>
 
 
-- 🔭 Actualmente estoy buscando una pasantía
-
-
 - 🌱 Actualmente estoy aprendiendo C++
 
 
 - ❓ Puedes enviarme un correo electrónico a través de [aqui](mailto:david.alvarez.barraza@gmail.com)
 
 
-- ⚡ Mi hobbie es ser audiovisual
+- ⚡ Mi hobbie es pescar y grabar
 
 
 <br/>  
