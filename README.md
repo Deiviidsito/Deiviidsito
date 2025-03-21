@@ -8,7 +8,7 @@
 ### <div align="center">Soy estudiante de la Universidad Catolica Del Norte, Chile. Todavía en proceso de aprendizaje en el mundo de la ingenieria de software</div>
 
 
-- 🌱 Actualmente estoy aprendiendo Angular
+- 🌱 Actualmente estoy aprendiendo AWS
 
 
 - ❓ Puedes enviarme un correo electrónico a través de [aqui](mailto:david.alvarez.barraza@gmail.com)
