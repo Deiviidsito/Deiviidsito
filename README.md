@@ -79,13 +79,3 @@
 </div>
 
 
-#
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=66wkk5eskt3zm8g5mtwp43o1y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=66wkk5eskt3zm8g5mtwp43o1y&redirect=true)" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Deiviidsito&&style=flat-square" align="center" />
-</div>   
-
-<br />
