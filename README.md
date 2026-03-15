@@ -1,4 +1,4 @@
-# Hola, soy David
+# Hola, soy Deiviid
 
 `Tecnologia para mineria` `Web + IA + datos`
 
