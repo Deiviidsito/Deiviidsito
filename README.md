@@ -1,68 +1,48 @@
-## <div align="center">👋 ¡Hola! Soy Deiviid</div>
+# Hola, soy David
 
-<br>
-<div align="center">
-  <img src="https://github.com/Deiviidsito/Deiviidsito/blob/main/logo%20pagina.png" style="width:250px"/>
-</div>
+`Tecnologia para mineria` `Web + IA + datos`
 
-### <div align="center">🎓 Estudiante de Ingeniería en Software en la Universidad Católica del Norte, Chile. Actualmente me encuentro en proceso de aprendizaje continuo en el mundo del desarrollo y la tecnología.</div>
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+> Construyo software para mineria con foco en operaciones, seguridad, datos e IA.
+
+## Roadmap De Proyectos
+
+- 🛠 `MineCheck` - Inspecciones mineras, checklists, evidencias y reportes de terreno.
+- 📊 `MineDash` - Dashboard de operaciones, produccion, detenciones y cumplimiento.
+- 🦺 `MineSafe` - Gestion de incidentes, condiciones inseguras y acciones correctivas.
+- 🤖 `MinePredict` - Prediccion de fallas con datos operacionales y machine learning.
+- 🧩 `MineFlow` - Plataforma unificada para operaciones, seguridad e inteligencia operacional.
+
+## En Lo Que Estoy
+
+- Vivir en el futuro: aprender y crear herramientas para que la ingenieria automatizada sea mas rapida para todos.
+- Aprendiendo mineria mientras creo proyectos.
+
+## Logros
+
+- Primer lugar en la Hackaton de la NASA 2025, Antofagasta
+- Primer lugar en el concurso de landing page de NutrIA
+- Segundo lugar en Hackadisc 2025
+
+## Actividad En GitHub
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/Deiviidsito)
+
+## Contacto
+
+[![GitHub](https://img.shields.io/badge/-Deiviidsito-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deiviidsito)
+[![LinkedIn](https://img.shields.io/badge/-deiviid-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deiviid/)
 
 ---
 
-- 🌱 Actualmente estoy aprendiendo **AWS**  
-- 📩 Puedes contactarme por correo electrónico [aquí](mailto:david.alvarez.barraza@gmail.com)  
-- ⚡ Me apasiona la **pesca deportiva** y **grabar contenido**, donde combino naturaleza y tecnología  
+### Filosofia
 
-<br/>  
-
-## 🚀 Capacidades
-
-<table align="center">
-<tr><td valign="top" width="33%">
-
-### <div align="center">Frontend</div>
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" /></a>  
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### <div align="center">Backend</div>
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" /></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### <div align="center">Lenguajes</div>
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" /></a>  
-</div>
-
-</td></tr></table>
-
-<br/>  
-
-## 🤝 ¡Conectemos!
-
-<div align="center">
-<a href="https://github.com/Deiviidsito" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://twitter.com/deiv11d" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://www.linkedin.com/in/deiviid/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</div>
+> Construir primero, mejorar despues, aprender siempre.
