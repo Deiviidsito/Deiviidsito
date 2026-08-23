@@ -16,7 +16,7 @@ Builder. Resuelvo problemas con código.
 - ⚙️ Más proyectos activos combinando IA, datos y web
 
 ## Logros
-
+- 🥇 Primer lugar —  Hackadisc 2026
 - 🥇 Primer lugar — NASA Hackathon 2025, Antofagasta
 - 🥇 Primer lugar — Concurso de landing page NutrIA
 - 🥈 Segundo lugar — Hackadisc 2025
